@@ -35,8 +35,8 @@ Ele oferece dois modos de operação:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gitbot-contribuicoes.git
-   cd gitbot-contribuicoes
+   git clone https://github.com/nferdica/gitbot.git
+   cd gitbot
    ```
 2. Instale as dependências:
    ```bash
